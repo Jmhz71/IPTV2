@@ -163,4 +163,3 @@ http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14425
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/multishow.png" group-title="MUSICA&ENTR",MULTISHOW 4K
 
 http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14424
-
