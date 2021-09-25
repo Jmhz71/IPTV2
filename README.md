@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: HD",Globo TV Bahia HD+
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16731
-
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nick.png" group-title="INFANTIS",NICK 4K
 
 http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14411
